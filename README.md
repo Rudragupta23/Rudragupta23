@@ -37,8 +37,7 @@
 
 ### 🐍 Contribution Graph Snake
 
-![snake gif](https://github.com/Rudragupta23/Rudragupta23/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/Rudragupta23/Rudragupta23/blob/output/github-snake-dark.svg)
 ---
 
 ### 💻 GitHub Stats
