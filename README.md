@@ -32,7 +32,7 @@
 | 🏏 [**Decision Review System (DRS)**](https://github.com/Rudragupta23/Decision-Review-System-DRS) | A system to review and reverse on-field umpire decisions in cricket |
 | 💸 [**TrackMySpend - Expense Tracker**](https://github.com/Rudragupta23/TrackMySpend-ExpenseTracker) | A smart expense tracker to help you manage your finances |
 | 🙏 [**Pahal Foundation NGO Website**](https://github.com/Rudragupta23/Pahal-Foundation-NGO) | A website for a non-profit organization dedicated to helping underprivileged children |
-| 🙏 [**Gesture Control System**](https://github.com/Rudragupta23/Gesture-Control-System) |App uses your webcam to control system functions like volume, media playback, etc. |
+| ✨ [**Gesture Control System**](https://github.com/Rudragupta23/Gesture-Control-System) |App uses your webcam to control system functions like volume, media playback, etc. |
 
 
 ---
