@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Tech+Enthusiast+%F0%9F%9A%80;Programmer+%F0%9F%92%B8;Learning+DSA+%F0%9F%A7%A0;Writing+Clean%2C+Scalable+Code+%F0%9F%93%9B" alt="Typing SVG" />
 </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ### 🚀 About Me
 
@@ -19,10 +20,12 @@
 - 👨‍💻 Currently exploring **DSA** concepts.
 - 🤝 Passionate about collaborating on **innovative projects** & **open-source**.
 
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ### 🔥 Featured Projects
 
@@ -33,6 +36,7 @@
 | 💸 [**TrackMySpend - Expense Tracker**](https://github.com/Rudragupta23/TrackMySpend-ExpenseTracker) | A smart expense tracker to help you manage your finances |
 | 🙏 [**Pahal Foundation NGO Website**](https://github.com/Rudragupta23/Pahal-Foundation-NGO) | A website for a non-profit organization dedicated to helping underprivileged children |
 | ✨ [**Gesture Control System**](https://github.com/Rudragupta23/Gesture-Control-System) |App uses your webcam to control system functions like volume, media playback, etc. |
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 
 ---
@@ -55,6 +59,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Rudragupta23&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ### 🌐 Connect With Me
 
@@ -66,6 +71,7 @@
 </p>
 
 ---
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ### ✍️ Quote of the Day
 > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
