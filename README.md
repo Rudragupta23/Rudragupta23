@@ -19,6 +19,7 @@
   - `TrackMySpend`: A smart expense tracker to manage your finances.
   - `Pahal Foundation NGO Website`: A platform for a non-profit organization.
   - `Gesture Control System`: Webcam to control system functions.
+  - `RupeeTracker`: A Java-based financial tracking application for secure personal finance management.
 - 👨‍💻 Currently exploring **DSA** concepts.
 - 🤝 Passionate about collaborating on **innovative projects** & **open-source**.
 
