@@ -50,14 +50,6 @@
 ![snake gif](https://github.com/Rudragupta23/Rudragupta23/blob/output/github-snake-dark.svg)
 ---
 
-### 💻 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudragupta23&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudragupta23&layout=compact&theme=tokyonight" height="180" />
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rudragupta23&theme=dark&no-frame=false&no-bg=true&margin-w=4)
