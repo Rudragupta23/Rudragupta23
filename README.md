@@ -71,5 +71,5 @@
 [![](https://visitcount.itsvg.in/api?id=Rudragupta23&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-  🚀 Thanks for visiting! Let's innovate, build, and learn together ✨
+  🚀 Thanks for visiting! Let's innovate, build, and learn together. ✨
 </p>
