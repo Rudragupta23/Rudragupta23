@@ -14,7 +14,7 @@
 
 - 🎓 **CSE @ VIT Bhopal | Full-Stack Developer**
 - 💡 **Building impactful projects:**
-  - `Yatra Saral Web App`: A one-stop solution for train travel needs.
+  - `Yatra Saral Web App`: A full-stack web application providing one-stop solution for all train travel needs.
   - `Decision Review System (DRS)`: A system to review and reverse on-field umpire decisions in cricket.
   - `TrackMySpend`: A smart expense tracker to manage your finances.
   - `Pahal Foundation NGO Website`: A platform for a non-profit organization.
