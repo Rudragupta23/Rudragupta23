@@ -21,6 +21,8 @@
   - `Gesture Control System`: Webcam to control system functions.
   - `RupeeTracker`: A Java-based financial tracking application for secure personal finance management.
   - `FFCS-PLANNER-VITB`: A web application designed to plan their course schedules during the FFCS registration.
+  - `Smart Management Inventory`: App combining a Point of Sale register with smart inventory tracking, automated email alerts,etc.
+
 - 👨‍💻 Currently exploring **DSA** concepts.
 - 🤝 Passionate about collaborating on **innovative projects** & **open-source**.
 
