@@ -42,7 +42,7 @@
 | 💸 [**TrackMySpend - Expense Tracker**](https://github.com/Rudragupta23/TrackMySpend-ExpenseTracker) | A smart expense tracker to help you manage your finances. |
 | 🙏 [**Pahal Foundation NGO Website**](https://github.com/Rudragupta23/PahalFoundation) | A website for a non-profit organization dedicated to helping underprivileged children. |
 | ✨ [**Gesture Control System**](https://github.com/Rudragupta23/Gesture-Control-System) |App uses your webcam to control system functions like volume, media playback, etc. |
-| ✨ [**RupeeTracker**](https://github.com/Rudragupta23/RupeeTracker) |A Java-based financial tracking application for secure personal finance management. |
+| ✨ [**Smart Inventory Management System**](https://github.com/Rudragupta23/Smart-Inventory-Management-System) |A desktop app built in Java that handles warehouse management POS operations |
 | ✨ [**FFCS-PLANNER-VITB**](https://github.com/Rudragupta23/FFCS-PLANNER-VITB) |A web application designed to plan their course schedules during the FFCS registration. |
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
