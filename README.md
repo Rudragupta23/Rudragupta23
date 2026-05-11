@@ -2,7 +2,6 @@
 <p align="center">
   <b>Third Year CSE Student | Tech Enthusiast | Web Developer ⚡</b><br>
       <img src="https://komarev.com/ghpvc/?username=Rudragupta23&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-
 </p>
 
 <p align="center">
@@ -69,7 +68,6 @@
 
 ### ✍️ Quote of the Day
 > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler.
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rudragupta23&icon=0&color=0)](https://visitcount.itsvg.in)
