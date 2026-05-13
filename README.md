@@ -36,10 +36,10 @@
 
 | Project | Description |
 |---|---|
-| 🚂 [**Yatra Saral Web Application**](https://github.com/Rudragupta23/Yatra-Saral-Web-Application) | A full-stack web and mobile application providing one-stop solution for all train travel needs. |
+| 🚂 [**Yatra Saral Web App**](https://github.com/Rudragupta23/Yatra-Saral-Web-Application) | A full-stack web and mobile application providing one-stop solution for all train travel needs. |
 | 🏏 [**Decision Review System (DRS)**](https://github.com/Rudragupta23/Decision-Review-System-DRS) | A system to review and reverse on-field umpire decisions in cricket. |
 | 💸 [**TrackMySpend**](https://github.com/Rudragupta23/TrackMySpend-ExpenseTracker) | A smart expense tracker to help you manage your finances. |
-| 🙏 [**Pahal Foundation NGO Website**](https://github.com/Rudragupta23/PahalFoundation) | A website for a non-profit organization dedicated to helping underprivileged children. |
+| 🙏 [**Pahal Foundation Website**](https://github.com/Rudragupta23/PahalFoundation) | A website for a non-profit organization dedicated to helping underprivileged children. |
 | ✨ [**Gesture Control System**](https://github.com/Rudragupta23/Gesture-Control-System) |App uses your webcam to control system functions like volume, media playback, etc. |
 | ✨ [**Smart Inventory Management**](https://github.com/Rudragupta23/Smart-Inventory-Management-System) |A desktop app built in Java that handles warehouse management POS operations |
 | ✨ [**FFCS-PLANNER-VITB**](https://github.com/Rudragupta23/FFCS-PLANNER-VITB) |A web application designed to plan their course schedules during the FFCS registration. |
