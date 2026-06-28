@@ -43,6 +43,7 @@
 | ✨ [**Gesture Control System**](https://github.com/Rudragupta23/Gesture-Control-System) |App uses your webcam to control system functions like volume, media playback, etc. |
 | ✨ [**Smart Inventory Management**](https://github.com/Rudragupta23/Smart-Inventory-Management-System) |A desktop app built in Java that handles warehouse management POS operations |
 | ✨ [**FFCS-PLANNER-VITB**](https://github.com/Rudragupta23/FFCS-PLANNER-VITB) |A web application designed to plan their course schedules during the FFCS registration. |
+| ✨ [**CLASSROOM PORTAL**](https://github.com/Rudragupta23/Teacher-Student-Portal) |A app designed for faculties, student, parent, grader where in real time they can review their work . |
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 
