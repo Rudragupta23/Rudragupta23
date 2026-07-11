@@ -55,6 +55,19 @@
 ---
 
 
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudragupta23&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b" alt="GitHub Streak"/>
+</div>
+
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudragupta23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" alt="Contribution Graph"/>
+</div>
+
+---
+
 ### 🌐 Connect With Me
 
 <p align="center">
