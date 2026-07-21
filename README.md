@@ -14,7 +14,6 @@
 - 🎓 **CSE @ VIT Bhopal | Full-Stack Developer**
 - 💡 **Building impactful projects**
 - 👨‍💻 Currently exploring DSA concepts.
-- 🤝 Passionate about collaborating on **innovative projects** & **open-source**.
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
