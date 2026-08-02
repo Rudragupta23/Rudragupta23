@@ -1,7 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Rudra Gupta</h1>
+
 <p align="center">
   <b>Final Year CSE Student | Tech Enthusiast | Full Stack Web Developer ⚡</b><br>
-      <img src="https://komarev.com/ghpvc/?username=Rudragupta23&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rudragupta23&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
