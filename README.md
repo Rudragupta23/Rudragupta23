@@ -81,7 +81,17 @@
 ![snake gif](https://github.com/Rudragupta23/Rudragupta23/blob/output/github-snake-dark.svg)
 ---
 
+<br/>
 
+## 🏆 LeetCode Progress
+
+<div align="center">
+  <a href="https://leetcode.com/u/Rudragupta23/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Rudragupta23?theme=tokyonight&font=Outfit&ext=activity" alt="LeetCode Stats" />
+  </a>
+</div>
+
+<br/>
 
 ## 📊 GitHub Stats
 <div align="center">
