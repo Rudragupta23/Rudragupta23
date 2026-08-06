@@ -1,128 +1,258 @@
-<h1 align="center">Hi there 👋, I'm Rudra Gupta</h1>
-
-<p align="center">
-  <b>Final Year CSE Student | Tech Enthusiast | Full Stack Web Developer ⚡</b><br>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rudragupta23&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Tech+Enthusiast+%F0%9F%9A%80;Programmer+%F0%9F%92%B8;Learning+DSA+%F0%9F%A7%A0;Writing+Clean%2C+Scalable+Code+%F0%9F%93%9B" alt="Typing SVG" />
-</p>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
-
-### 🚀 About Me
-
-- 🎓 **CSE @ VIT Bhopal | Full-Stack Developer**
-- 💡 **Building impactful projects**
-- 👨‍💻 Currently exploring DSA concepts.
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
-
-
-## Tech Stack
-
 <div align="center">
-
-### Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there%20👋,%20I'm%20Rudra%20Gupta&fontSize=40&animation=twinkling&fontAlignY=35" width="100%" />
 </div>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
-
-### 🔥 Featured Projects
-
-| Project | Description |
-|---|---|
-| ✨ [**CLASSROOM PORTAL**](https://github.com/Rudragupta23/Teacher-Student-Portal) |A app designed for faculties, student, parent, grader where in real time they can review their work . |
-| 🙏 [**Pahal Foundation Website**](https://github.com/Rudragupta23/PahalFoundation) | A website for a non-profit organization dedicated to helping underprivileged children. |
-| 🚂 [**Yatra Saral Web App**](https://github.com/Rudragupta23/Yatra-Saral-Web-Application) | A full-stack web and mobile application providing one-stop solution for all train travel needs. |
-| 🏏 [**Decision Review System (DRS)**](https://github.com/Rudragupta23/Decision-Review-System-DRS) | A system to review and reverse on-field umpire decisions in cricket. |
-| 💸 [**TrackMySpend**](https://github.com/Rudragupta23/TrackMySpend-ExpenseTracker) | A smart expense tracker to help you manage your finances. |
-| ✨ [**Gesture Control System**](https://github.com/Rudragupta23/Gesture-Control-System) |App uses your webcam to control system functions like volume, media playback, etc. |
-| ✨ [**Smart Inventory Management**](https://github.com/Rudragupta23/Smart-Inventory-Management-System) |A desktop app built in Java that handles warehouse management POS operations |
-| ✨ [**FFCS-PLANNER-VITB**](https://github.com/Rudragupta23/FFCS-PLANNER-VITB) |A web application designed to plan their course schedules during the FFCS registration. |
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
-
-
----
-
-### 🐍 Contribution Graph Snake
-
-![snake gif](https://github.com/Rudragupta23/Rudragupta23/blob/output/github-snake-dark.svg)
----
 
 <br/>
 
-## 🏆 LeetCode Progress
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Student;Full+Stack+Web+Developer;Tech+Enthusiast+%F0%9F%9A%80;Learning+DSA+%F0%9F%A7%A0;Writing+Clean%2C+Scalable+Code" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Rudragupta23&label=Profile%20views&color=38bdf8&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Rudragupta23&label=Profile%20views&color=38bdf8&style=for-the-badge" alt="Profile views" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Rudragupta23?tab=followers">
+    <img src="https://img.shields.io/github/followers/Rudragupta23?logo=github&style=for-the-badge&color=818cf8" alt="GitHub followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Rudragupta23?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Rudragupta23?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f59e0b" alt="Total stars" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
+
+## 🚀 About Me
+
+<table bordercolor="#161b22">
+  <tr>
+    <td width="65%" valign="top">
+      <ul>
+        <li>🎓 <b>Education:</b> CSE @ VIT Bhopal</li>
+        <li>💡 <b>Passion:</b> Building impactful projects and Full-Stack Development</li>
+        <li>👨‍💻 <b>Currently:</b> Exploring DSA concepts and writing clean code</li>
+        <li>🚀 <b>Goal:</b> Innovate, build, and learn together.</li>
+      </ul>
+    </td>
+    <td width="35%" valign="top">
+      <div align="center">
+        <img alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
+
+## 💻 Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-3b82f6?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3b82f6?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-3b82f6?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-3b82f6?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3b82f6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-8b5cf6?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-8b5cf6?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-8b5cf6?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-8b5cf6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-10b981?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-10b981?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-10b981?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-10b981?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+### Database & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-f59e0b?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-f59e0b?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-f59e0b?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-6366f1?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-6366f1?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
+
+## 🛠️ Featured Projects
+
+<table bordercolor="#161b22">
+  <tr>
+    <td width="50%" valign="top">
+      <b>🚂 Yatra Saral Web App</b><br/>
+      <i>One-stop Train Travel Solution</i><br/><br/>
+        ✓ A full-stack web and mobile application<br/>
+        ✓ Providing one-stop solutions for all train travel needs
+      <div align="left">
+        <br/>
+        <a href="https://github.com/Rudragupta23/Yatra-Saral-Web-Application">
+          <img src="https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <b>✨ Classroom Portal</b><br/>
+      <i>Real-time Review System</i><br/><br/>
+        ✓ App designed for faculties, students, and parents<br/>
+        ✓ Graders can review work in real-time
+      <div align="left">
+        <br/>
+        <a href="https://github.com/Rudragupta23/Teacher-Student-Portal">
+          <img src="https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🏏 Decision Review System (DRS)</b><br/>
+      <i>Cricket Review Utility</i><br/><br/>
+        ✓ A system built to review on-field umpire decisions<br/>
+        ✓ Reverse and analyze decisions in cricket
+      <div align="left">
+        <br/>
+        <a href="https://github.com/Rudragupta23/Decision-Review-System-DRS">
+          <img src="https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <b>💸 TrackMySpend</b><br/>
+      <i>Smart Expense Tracker</i><br/><br/>
+        ✓ A smart expense tracker<br/>
+        ✓ Designed to help you seamlessly manage your finances
+      <div align="left">
+        <br/>
+        <a href="https://github.com/Rudragupta23/TrackMySpend-ExpenseTracker">
+          <img src="https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🙏 Pahal Foundation</b><br/>
+      <i>Non-profit Organization Website</i><br/><br/>
+        ✓ Dedicated to helping underprivileged children<br/>
+        ✓ Spreading awareness and facilitating donations
+      <div align="left">
+        <br/>
+        <a href="https://github.com/Rudragupta23/PahalFoundation">
+          <img src="https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <b>✨ Gesture Control System</b><br/>
+      <i>Webcam AI Controller</i><br/><br/>
+        ✓ App uses your webcam to control system functions<br/>
+        ✓ Adjust volume, media playback, and more via gestures
+      <div align="left">
+        <br/>
+        <a href="https://github.com/Rudragupta23/Gesture-Control-System">
+          <img src="https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>✨ Smart Inventory Management</b><br/>
+      <i>Desktop POS App</i><br/><br/>
+        ✓ A desktop app built in Java<br/>
+        ✓ Handles warehouse management and POS operations
+      <div align="left">
+        <br/>
+        <a href="https://github.com/Rudragupta23/Smart-Inventory-Management-System">
+          <img src="https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <b>✨ FFCS-PLANNER-VITB</b><br/>
+      <i>Course Schedule Planner</i><br/><br/>
+        ✓ A web application for students<br/>
+        ✓ Designed to plan course schedules during FFCS registration
+      <div align="left">
+        <br/>
+        <a href="https://github.com/Rudragupta23/FFCS-PLANNER-VITB">
+          <img src="https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
+
+## 📊 Analytics & Progress
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudragupta23&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudragupta23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+## 🏆 LeetCode Stats
 
 <div align="center">
   <a href="https://leetcode.com/u/Rudragupta23/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Rudragupta23?theme=tokyonight&font=Outfit&ext=activity" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Rudragupta23?theme=dark&font=Outfit&ext=activity" alt="LeetCode Stats" />
   </a>
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## 🐍 Contribution Graph Snake
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudragupta23&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b" alt="GitHub Streak"/>
+  <img src="https://github.com/Rudragupta23/Rudragupta23/blob/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
 </div>
 
-## 📈 Contribution Graph
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/rudrag23" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:23rudragupta@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/rud.ra_23/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@rudrag05" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudragupta23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" alt="Contribution Graph"/>
+  <blockquote>
+    <p><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler.</i></p>
+  </blockquote>
 </div>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/rudrag23"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:23rudragupta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/rud.ra_23/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@rudrag05"><img src="https://img.shields.io/badge/-Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
-
----
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
-
-### ✍️ Quote of the Day
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler.
-
----
-[![](https://visitcount.itsvg.in/api?id=Rudragupta23&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<p align="center">
-  🚀 Thanks for visiting! Let's innovate, build, and learn together. ✨
-</p>
