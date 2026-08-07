@@ -32,7 +32,7 @@
   <tr>
     <td width="65%" valign="top">
       <ul>
-        <li>🎓 <b>Education:</b> CSE @ VIT Bhopal</li>
+        <li>🎓 <b>Education:</b> Final Year CSE @ VIT Bhopal</li>
         <li>💡 <b>Passion:</b> Building impactful projects and Full-Stack Development</li>
         <li>👨‍💻 <b>Currently:</b> Exploring DSA concepts and writing clean code</li>
         <li>🚀 <b>Goal:</b> Innovate, build, and learn together.</li>
