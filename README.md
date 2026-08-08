@@ -75,13 +75,17 @@
   <img src="https://img.shields.io/badge/REST_API-10b981?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-### Database & Tools
+### Database, Tools & Hosting
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-f59e0b?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-f59e0b?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-f59e0b?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-6366f1?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-6366f1?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
@@ -197,6 +201,16 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Rudragupta23&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rudragupta23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+<br/>
+
 ## 📊 Analytics & Progress
 
 <div align="center">
@@ -256,3 +270,4 @@
     <p><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler.</i></p>
   </blockquote>
 </div>
+
