@@ -176,7 +176,7 @@
     <td width="50%" valign="top">
       <b>✨ Smart Inventory Management</b><br/>
       <i>Desktop POS App</i><br/><br/>
-        ✓ A desktop app built in Java<br/>
+        ✓ A desktop application built in Java<br/>
         ✓ Handles warehouse management and POS operations
       <div align="left">
         <br/>
