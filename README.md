@@ -34,7 +34,7 @@
 <ul>
   <li>🎓 <b>Education:</b> Final Year CSE @ VIT Bhopal</li>
   <li>💻 <b>Role:</b> Full-Stack Developer passionate about building scalable web applications</li>
-  <li>🛠️ <b>Tech:</b> React.js, TypeScript, Node.js, Express.js, Django, MongoDB, PostgreSQL & AWS</li>
+  <li>🛠️ <b>Tech:</b> Java, React.js, TypeScript, Node.js, Express.js, Django, MongoDB, PostgreSQL & AWS</li>
   <li>🏗️ <b>Projects:</b> Building real-world platforms across education, NGOs and travel</li>
   <li>🧠 <b>Currently:</b> Strengthening DSA, backend development and software engineering fundamentals</li>
 </ul>
