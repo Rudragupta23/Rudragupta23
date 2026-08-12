@@ -136,7 +136,7 @@
     <td width="50%" valign="top">
       <b>💸 TrackMySpend</b><br/>
       <i>Smart Expense Tracker</i><br/><br/>
-        ✓ A smart expense tracker<br/>
+        ✓ A smart expense tracker desktop application<br/>
         ✓ Designed to help you seamlessly manage your finances
       <div align="left">
         <br/>
