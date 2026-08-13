@@ -109,7 +109,7 @@
     </td>
     <td width="50%" valign="top">
       <b>✨ Classroom Portal</b><br/>
-      <i>Real-time Review System</i><br/><br/>
+      <i>Real-time Classroom System</i><br/><br/>
         ✓ App designed for faculties, students, and parents<br/>
         ✓ Graders can review work in real-time
       <div align="left">
