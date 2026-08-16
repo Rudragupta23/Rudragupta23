@@ -111,7 +111,7 @@
       <b>✨ Classroom Portal</b><br/>
       <i>Real-time Classroom System</i><br/><br/>
         ✓ App designed for faculties, students, and parents<br/>
-        ✓ Graders can review work in real-time
+        ✓ Graders can review the work in real-time
       <div align="left">
         <br/>
         <a href="https://github.com/Rudragupta23/Teacher-Student-Portal">
