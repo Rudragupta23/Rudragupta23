@@ -137,7 +137,7 @@
       <b>💸 TrackMySpend</b><br/>
       <i>Smart Expense Tracker</i><br/><br/>
         ✓ A smart expense tracker desktop application<br/>
-        ✓ Designed to help you seamlessly manage all your finances
+        ✓ Designed to help you seamlessly manage all of your finances
       <div align="left">
         <br/>
         <a href="https://github.com/Rudragupta23/TrackMySpend-ExpenseTracker">
