@@ -151,7 +151,7 @@
       <b>🙏 Pahal Foundation</b><br/>
       <i>Non-profit Organization Website</i><br/><br/>
         ✓ Dedicated to helping underprivileged children<br/>
-        ✓ Spreading awareness and facilitating donations
+        ✓ Spreading awareness among everyone and facilitating donations
       <div align="left">
         <br/>
         <a href="https://github.com/Rudragupta23/PahalFoundation">
