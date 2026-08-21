@@ -150,7 +150,7 @@
     <td width="50%" valign="top">
       <b>🙏 Pahal Foundation</b><br/>
       <i>Non-profit Organization Website</i><br/><br/>
-        ✓ Dedicated to helping underprivileged children<br/>
+        ✓ Dedicated to helping and educating underprivileged children<br/>
         ✓ Spreading awareness among everyone and facilitating donations
       <div align="left">
         <br/>
