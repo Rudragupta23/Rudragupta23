@@ -96,7 +96,7 @@
 <table bordercolor="#161b22">
   <tr>
     <td width="50%" valign="top">
-      <b>🚂 Yatra Saral Web App</b><br/>
+      <b>🚂 Yatra Saral Web Application</b><br/>
       <i>One-stop Train Travel Solution</i><br/><br/>
         ✓ A full-stack web and mobile application<br/>
         ✓ Providing one-stop solutions for all train travel needs
