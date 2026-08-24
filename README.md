@@ -163,7 +163,7 @@
       <b>✨ Gesture Control System</b><br/>
       <i>Webcam AI Controller</i><br/><br/>
         ✓ App uses your webcam to control system functions<br/>
-        ✓ Adjust volume, media playback, and more via gestures
+        ✓ Adjust volume, media playback and more via gestures
       <div align="left">
         <br/>
         <a href="https://github.com/Rudragupta23/Gesture-Control-System">
