@@ -28,66 +28,27 @@
 
 ## 🚀 About Me
 
-<table bordercolor="#161b22">
-  <tr>
-    <td width="65%" valign="top">
-<ul>
-  <li>🎓 <b>Education:</b> Final Year CSE @ VIT Bhopal</li>
-  <li>💻 <b>Role:</b> Full-Stack Developer passionate about building scalable web applications</li>
-  <li>🛠️ <b>Tech:</b> Java, React.js, TypeScript, Node.js, Express.js, Django, MongoDB, PostgreSQL & AWS</li>
-  <li>🏗️ <b>Projects:</b> Building real-world platforms across education, NGOs and travel</li>
-  <li>🧠 <b>Currently:</b> Strengthening DSA, backend development and software engineering fundamentals</li>
-</ul>
-    </td>
-    <td width="35%" valign="top">
-      <div align="center">
-        <img alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-      </div>
-    </td>
-  </tr>
-</table>
+<table bordercolor="#161b22"> <tr> <td width="65%" valign="top">
 
+Hi, I'm Rudra Gupta — a full-stack developer in my final year of CSE at VIT Bhopal. I build web and desktop applications that solve problems I've actually run into, and I grind DSA when none of them are cooperating.
+
+<ul> <li>🔭 <b>Currently building:</b> <a href="https://github.com/Rudragupta23/teacher-student-portal">ClassRoom Portal</a> — a full stack educational platform</li> <li>🌱 <b>Learning:</b> Backend architecture, system design and software engineering fundamentals</li> <li>🛠️ <b>Comfortable with:</b> Java, React, TypeScript, Node.js, Express, Django, MongoDB, PostgreSQL, AWS</li> <li>🏗️ <b>Domains:</b> Real-world platforms across education, NGOs, travel and finance</li> <li>💡 <b>Fun fact:</b> I started building seriously because I wanted tools that didn't exist yet</li> </ul> </td> <td width="35%" valign="top"> <div align="center"> <img alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> </div> </td> </tr> </table> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
 
 ## 💻 Tech Stack
 
 ### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-3b82f6?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3b82f6?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-3b82f6?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-3b82f6?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3b82f6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts" alt="languages" />
+
 
 ### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/React-8b5cf6?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-8b5cf6?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-8b5cf6?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-8b5cf6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" alt="frontend" />
 
 ### Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-10b981?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-10b981?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-10b981?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-10b981?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,postman" alt="backend" />
 
 ### Database, Tools & Hosting
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-f59e0b?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-f59e0b?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-f59e0b?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-6366f1?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-6366f1?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,aws,git,github,vercel,netlify" alt="database, tools and hosting" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
 
