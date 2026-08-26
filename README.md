@@ -112,7 +112,7 @@ Hi, I'm Rudra Gupta — a full-stack developer in my final year of CSE at VIT Bh
       <b>🙏 Pahal Foundation</b><br/>
       <i>Non-profit Organization Website</i><br/><br/>
         ✓ Dedicated to helping and educating underprivileged children<br/>
-        ✓ Spreading awareness among everyone and facilitating donations
+        ✓ Spreading awareness among everyone and serving donations
       <div align="left">
         <br/>
         <a href="https://github.com/Rudragupta23/PahalFoundation">
