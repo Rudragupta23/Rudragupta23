@@ -71,7 +71,7 @@ Hi, I'm Rudra Gupta — a full-stack developer in my final year of CSE at VIT Bh
     <td width="50%" valign="top">
       <b>✨ Classroom Portal</b><br/>
       <i>Real-time Classroom System</i><br/><br/>
-        ✓ App designed for faculties, students, graders and parents<br/>
+        ✓ Web App designed for faculties, students, graders and parents<br/>
         ✓ Teachers can review the work in real-time
       <div align="left">
         <br/>
