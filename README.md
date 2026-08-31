@@ -59,7 +59,7 @@ Hi, I'm Rudra Gupta — a full-stack developer in my final year of CSE at VIT Bh
     <td width="50%" valign="top">
       <b>🚂 Yatra Saral Web Application</b><br/>
       <i>One-stop Train Travel Solution</i><br/><br/>
-        ✓ A full-stack web app for all your train travel needs<br/>
+        ✓ A full-stack web application for all your train travel needs<br/>
         ✓ Providing one-stop solutions for all train travel needs
       <div align="left">
         <br/>
