@@ -111,7 +111,7 @@ Hi, I'm Rudra Gupta - a full-stack developer in my final year of CSE at Vellore 
     <td width="50%" valign="top">
       <b>🙏 Pahal Foundation</b><br/>
       <i>Non-profit Organization Website</i><br/><br/>
-        ✓ Dedicated to helping and educating underprivileged children<br/>
+        ✓ Dedicated to helping & educating underprivileged children<br/>
         ✓ Spreading awareness among everyone and serving donations
       <div align="left">
         <br/>
