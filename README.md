@@ -48,7 +48,7 @@
 
 <table bordercolor="#161b22"> <tr> <td width="65%" valign="top">
 
-Hi, I'm Rudra Gupta - a full-stack developer in my final year of CSE at Vellore Institute of Technology. I build web and desktop applications that solve problems I've actually run into, and I grind DSA when none of them are cooperating.
+Hi, I'm Rudra Gupta - a full-stack developer in my final year of CSE at Vellore Institute of Technology. I build web and desktop applications that solve problems I've actually run into and I grind DSA when none of them are cooperating.
 
 <ul>
   <li>🔭 <b>Currently building:</b> <a href="https://github.com/Rudragupta23/Teacher-Student-Portal">ClassRoom Portal</a> - a full stack educational platform</li>
