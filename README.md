@@ -51,7 +51,7 @@
 Hi, I'm Rudra Gupta - a full-stack developer in my final year of CSE at Vellore Institute of Technology. I build web and desktop applications that solve problems I've actually run into and I grind DSA when none of them are cooperating.
 
 <ul>
-  <li>🔭 <b>Currently building:</b> <a href="https://github.com/Rudragupta23/Teacher-Student-Portal">ClassRoom Portal</a> - a full stack educational platform</li>
+  <li>🔭 <b>Finished building:</b> <a href="https://github.com/Rudragupta23/Teacher-Student-Portal">ClassRoom Portal</a> - a full stack educational platform</li>
   <li>🌱 <b>Learning:</b> Backend architecture, system design and software engineering fundamentals</li>
   <li>🛠️ <b>Comfortable with:</b> Java, React, TypeScript, Node.js, Express, Django, MongoDB, PostgreSQL, AWS</li>
   <li>🏗️ <b>Domains:</b> Real-world platforms across education, NGOs, travel and finance</li>
