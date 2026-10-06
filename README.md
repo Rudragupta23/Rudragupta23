@@ -217,7 +217,7 @@ Hi, I'm Rudra Gupta - a full-stack developer in my final year of CSE at Vellore 
 | Platform | Stats |
 |:---:|:---:|
 | 🟡 LeetCode | **260+ problems solved** · Java |
-| 🏅 LeetCode Badges | 50 Days Badge 2026 · Aug 2026 LeetCoding Challenge |
+| 🏅 LeetCode Badges | 50 Days Badge 2026 · Aug, Sep 2026 LeetCoding Challenge |
 | 🐙 GitHub | **700+** total contributions |
 
 <a href="https://leetcode.com/u/Rudragupta23/" target="_blank">
