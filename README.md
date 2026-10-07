@@ -99,7 +99,7 @@ Hi, I'm Rudra Gupta - a full-stack developer in my final year of CSE at Vellore 
       <b>🏫 Classroom Portal</b><br/>
       <i>Real-time Classroom System</i><br/><br/>
         ✓ Web app designed for faculty, students, graders and parents<br/>
-        ✓ Teachers can review work in real time
+        ✓ Teachers can review work in real time.
       <div align="left">
         <br/>
         <a href="https://github.com/Rudragupta23/Teacher-Student-Portal">
